@@ -8,7 +8,8 @@
 :root {
     --text-size: 10pt;
     --line-height: 1.8;
-    --avatar-width: 29mm;
+    --avatar-width: 30mm;
+    --avatar-height: 45mm;
 
     --text-color: #353a42;
     --primary-color: #4870ac;
@@ -16,7 +17,7 @@
     --shadow-color: #dae3eac9;
     --border-color: #dae3ea;
 
-    --h1-size: 16pt;
+    --h1-size: 17pt;
     --h2-size: 12pt;
     --h3-size: 10.5pt;
 
@@ -183,8 +184,8 @@ ol ::marker {
     overflow: hidden;
 
     width: var(--avatar-width);
-    height: var(--avatar-width);
-    border-radius: 50%;
+    height: var(--avatar-height);
+    /* border-radius: 50%; */
     border: 2px solid var(--border-color);
     box-shadow: 0 0 0 3mm var(--bg-color);
 }
@@ -226,6 +227,7 @@ ol ::marker {
 /* Block Quote */
 
 #write blockquote {
+	font-size: 11.5pt;
     line-height: 1.6;
 }
 
