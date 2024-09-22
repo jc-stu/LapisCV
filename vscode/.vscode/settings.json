@@ -2,6 +2,7 @@
     "markdown.styles": [
         "./lapis-cv.css"
     ],
+    "markdown-pdf.format": "Legal",
     "markdown-pdf.headerTemplate": "",
     "markdown-pdf.footerTemplate": "",
     "markdown-pdf.displayHeaderFooter": false,
