@@ -1,54 +1,75 @@
-# 八爪猫
+# 姜川
 
-> 电话：`(123)456-7890`&emsp;&emsp;邮箱：`octocat@github.com`
+<img src="avatar.jpg" alt="avatar">
 
-<img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="avatar">
+> **求职意向**：运维工程师 / 测试工程师
 
 ## 基本信息
 
-### 八爪科技大学 - 本科 - 软件工程专业 (2008.02 - 2024.06)
+**生日：** 2002.12.27&emsp;&emsp;&emsp;&emsp;&emsp;**所在地：** 重庆市南岸区
 
-- **曾获奖项：** GitHub 认证八爪编码员，敏捷章鱼实践者
+**手机：** [15865270027](tel:15865270027)&emsp;&emsp;&emsp;**电子邮箱：** [631496453@qq.com](mailto:631496453@qq.com)
 
-- **校园经历：** 担任 OctoStudio 队长，致力于推动服务于八爪生物的技术创新和项目开发。
+**GitHub：**[github.com/jc-stu](https://github.com/jc-stu)
 
-**Github：** [github.com/octocat](https://github.com/octocat)&ensp;|&ensp;**个人博客：** [octocat.github.io](https://octocat.github.io)
+**技术文章：**[52pojie.cn/?1048772](https://www.52pojie.cn/home.php?mod=space&uid=1048772)（[需要登录？](https://bing.com/search?q=site%3A52pojie.cn+jc021227)）
+
+## 教育背景
+
+### 2021.9——2025.6&emsp;&emsp;&emsp;&emsp;&emsp;重庆邮电大学&emsp;&emsp;&emsp;&emsp;&emsp;软件工程（本科）
+
+## 自我评价
+
+- **非常善于解决问题**，能深入理解系统运行原理，找出问题根源并确定最佳解决方案。
+- **知识面十分广泛**，擅长处理涉及多个系统的问题，热爱学习和研究新技术。
+- 广泛了解**计算机底层原理、性能优化、信息安全、CTF**等，在**吾爱破解论坛**发表多篇技术帖，**阅读量过万**，登上**全站热门**。
+- 对《**深入理解计算机系统**》有深刻的理解。
+
+## 获奖证书
+
+- **蓝桥杯** 省一等奖、全国二等奖。
+- **全国计算机技术与软件专业技术资格考试**（软考）中级 软件设计师。
+- **工业互联网平台开发工程师** 中级。
+- **重庆邮电大学“红岩杯”信息安全竞赛**（CTF）第15名。
+- **大学英语六级**（CET6），能流畅阅读英文文档。
 
 ## 专业技能
 
-- **熟练掌握多种编程语言，包括 Octolang，OctoScript 等**，对**面向对象**和**函数式编程范式**有很好的理解，专注于编写清晰，高效，可维护的代码。
-- **出色的沟通和语言能力，无论八爪生物抑或来自不同地区的猫**，都能进行有效的团队合作和清晰技术概念沟通。
-- **扎实的软件开发原理，数据结构和算法理解**，熟悉计算机底层原理。
-- **在版本控制方面有丰富的经验**，熟练管理代码库、解决合并冲突，并促进代码审议。
+- 熟悉**Linux、RHEL的使用及维护**、**Git工作流**、**网络配置和网络协议**，掌握常用命令及工具
+- 熟悉**服务器运行环境搭建**，配置**Docker**和**Kubernetes**，如Nginx、MySQL、Redis等。
+- 熟悉**Python**和**Shell**语言，熟练编写自动化脚本。
+- 熟悉**Web自动化测试**、**接口测试**和**微服务测试**，熟练使用Python编写爬虫，掌握多种框架和工具，如**Insomnia**、**Reqable**、**JMeter**、**Scrapy**、**Selenium**、**mitmproxy**等。
+- 有**Java开发和测试经验**，了解Web程序的开发流程和架构。
+- **了解安全测试及常见Web应用程序漏洞**，会使用**OWASP ZAP**等工具。
 
-## 工作经验
+## 实习经历
 
 <div style="display: flex; justify-content: space-between;">
-    <h3>软件开发实习生 - 八爪科技</h3> <span style="text-align: right">2008.06 - 2008.08</span>
+    <h3>浩鲸云计算科技股份有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;运维实习生</h3> <span style="text-align: right">2024.05 - 2024.08</span>
 </div>
 
-- 与软件工程师团队合作，**使用 Octolang 开发数据可视化仪表盘**，为海洋保护工作提供八爪种群趋势的洞察。
-- **参与会议和代码审议，按照敏捷章鱼论交付高质量的软件，在紧迫的截止日期内完成任务。**
-- **协助解决技术问题，展现解决问题的技巧和在快节奏环境下积极主动解决挑战的态度。**
-  为项目需求、架构设计和编码标准的文档撰写做出贡献，促进团队成员间的知识共享和新成员的快速适应。
+- 负责现有项目容器化重构，采用Docker和Kubernetes部署，大幅简化项目配置与部署流程，提升服务的稳定性与可靠性，将项目部署时间减少80%，故障率降低50%。
+- 参与项目接口测试及压力测试，提交bug超过100个，协助定位问题，提高30%排错效率。
 
 ## 项目经历
 
-### GitFlix - [github.com/octocat/gitflix](https://github.com/octocat/gitflix)
+<div style="display: flex; justify-content: space-between;">
+    <h3>实验室助理</h3> <span style="text-align: right">2021.10 - 2024.1</span>
+</div>
 
-- **全栈 Web 应用程序，前端使用 Octo.js，后端使用 OctoScript**，允许用户发现和评价八爪生物主题电影。
-- **实现了一个复杂的推荐算法**，分析八爪生物的偏好和观影历史，为八爪生物跨多个流派提供八爪主题的电影推荐，确保了个性化和吸引人的内容发现。
-- **使用 JSON Web Tokens 和 bcrypt 实现用户身份验证和授权**，用于安全密码哈希。**利用 GitHub Actions 进行持续集成和部署**，确保流畅高效的开发工作流程。
+- 负责维护机房正常运行，包括**Windows和Linux系统的环境搭建、软件部署、网络配置**等，使用Docker部署服务器环境，协助实验室老师开展工作。
+- 多次解决**网络配置错误、软件安装失败及运行时故障**。
 
-### OctoConnect - [github.com/octocat/octo-connect](https://github.com/octocat/octo-connect)
+<div style="display: flex; justify-content: space-between;">
+    <h3>教务在线系统</h3> <span style="text-align: right">2021.10 - 2023.9</span>
+</div>
 
-- 团队项目，**使用 OctoDB 和 Octolang 创建八爪生物社交平台**。
-- **设计八爪风格的用户个人资料和互动功能**，例如**基于触手的消息传递**和**墨水喷溅反应**，以促进全球八爪生物和猫之间的社区参与。
-- **集成 OAuth 认证，与 GitHub 账户进行同步**，为 Octocat 和其他在 GitHub 上活跃的八爪生物提供无缝登录和个人资料同步。
+- 参与学校教务在线系统的测试，检查功能正确性及系统安全性。使用**ZAP**等工具测试，发现**2个敏感信息泄露**漏洞，**1个SQL注入**漏洞，**接口返回数据格式不一致**等问题。
+- 测试**微服务和RPC接口**，解决数据格式等原因导致的调用出错。
 
-### OctoGitHubber - [github.com/octocat/octo-githubber](https://github.com/octocat/octo-githubber)
+<div style="display: flex; justify-content: space-between;">
+    <h3>网上服务大厅</h3> <span style="text-align: right">2022.3 - 2023.3</span>
+</div>
 
-- **一款专门针对八爪生物的 GitHub 活动和贡献的网络应用程序**，利用 Octo.js 构建前端，Octolang 构建后端。
-- **与 GitHub API 集成，检索和分析八爪生物的存储库统计信息、提交历史和拉取请求活动**，提供个性化的见解和可视化，深入了解八爪生物的开源之旅。
-- **实现了八爪主题的勋章和成就等游戏化元素**，激励和鼓励八爪生物达成编码里程碑，促进持续学习和改进。
-- **设计了响应式和直观的仪表板界面，具有八爪主题的数据可视化**，使八爪生物能够跟踪进度、设定编码目标，并以有趣和吸引人的方式庆祝成就。
+- 使用**Selenium**结合修改的**ChromeDriver**，快速解决**瑞数5代**反爬，绕过环境检测。
+- 发现多个漏洞联合利用的途径，导致**超过20%的密码泄露**。
